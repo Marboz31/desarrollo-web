@@ -1,2 +1,4 @@
 Caso de prueba N° 1
 Test unitario creado por desarrollo
+Caso de prueba N° 2
+Resultado: ok
